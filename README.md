@@ -1,4 +1,4 @@
-<p align="center"> Hi 👋 I'm <b>Hak Lee</b>. Study at Hankuk University of Foreign Studies.<br />I'm excited for new opportunities, let's talk about working together. </p>
+<p align="center"> Hi 👋 I'm Hak Lee.<br />I'm excited for new opportunities, let's talk about working together. </p>
 <h4 align="center">Contact</h4>
 <p align="center">
   <a href="mailto:hello@haklee.me">
